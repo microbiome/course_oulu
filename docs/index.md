@@ -79,18 +79,17 @@ For a detailed schedule, see Section \@ref(program).
 
 ## Instructions for registration
 
-**Fee**: Course is free of charge for participants having a study right in University of Oulu and for doctoral researchers in Universities belonging to Doctoral+ affiliate network (Aalto University, Hanken School of Economics, University of Eastern Finland, University of Jyväskylä, University of Lapland, LUT University, University of Oulu, Tampere University, University of Turku, University of Vaasa, Åbo Akademi). Other participants are asked to apply for non-degree study right that involves an enrollment fee of 40e (please see instructions for registration). Participants are expected to cover their own travel and accommodation.
+**Fee**: Course is free of charge for participants having a study right in University of Oulu and for doctoral researchers in Universities belonging to Doctoral+ affiliate network (Aalto University, Hanken School of Economics, University of Eastern Finland, University of Jyväskylä, University of Lapland, LUT University, University of Oulu, Tampere University, University of Turku, University of Vaasa, Åbo Akademi). Other participants are asked to apply for non-degree study right that involves an enrolment fee of 40e. Participants are expected to cover their own travel and accommodation.
 
-1.  Participants having a study right to University of Oulu can register directly in PEPPI to Microbiome data science and multi-omics with R/Bioconductor under course code DP00BE40.
+1. Participants having a study right to University of Oulu can register directly in PEPPI to Microbiome data science and multi-omics with R/Bioconductor under course code DP00BE40.
 
-2. Doctoral researchers with a study right in University belonging to Doctoral+ affiliate network (Aalto University, Hanken School of Economics, University of Eastern Finland, University of Jyväskylä, University of Lapland, LUT University, University of Oulu, Tampere University, University of Turku, University of Vaasa, Åbo Akademi) can register through https://www.doctoralcourses.fi/.
+2. Doctoral researchers with a study right in University belonging to Doctoral+ affiliate network can register through https://www.doctoralcourses.fi/.
 
-3. Otherwise, participants are asked to apply for a non-degree study right. Please email anna.kaisanlahti@oulu.fi for further instructions.
-NOTE: non-degree study-right involves a fee of 40e.
+3. Otherwise, participants are asked to apply for a non-degree study right. Please email anna.kaisanlahti@oulu.fi for further instructions. 
 
 ## Teachers and organizers
 
-**Teachers**: [Leo Lahti](https://datascience.utu.fi) is the main teacher and Associate Professor in Data Science at the University of Turku. *Tuomas Borman* and *Anna Kaisanlahti* are a co-teachers. The course is organized by [Health and Biosciences Doctoral Programme (HBS-DP)](https://www.oulu.fi/en/research/graduate-school/organisation-and-contact-information-uniogs/health-and-biosciences-doctoral-programme) University of Oulu Graduate School, Research Unit of Translational Medicine, University of Oulu. The [Finnish IT Center for Science (CSC)](https://csc.fi/) supports the course by providing cloud computing services.
+**Teachers**: [Leo Lahti](https://datascience.utu.fi) is the main teacher and Professor in Data Science at the University of Turku. *Tuomas Borman* is a co-teacher and *Anna Kaisanlahti* is a coordinator . The course is organized by [Health and Biosciences Doctoral Programme (HBS-DP)](https://www.oulu.fi/en/research/graduate-school/organisation-and-contact-information-uniogs/health-and-biosciences-doctoral-programme) University of Oulu Graduate School, Research Unit of Clinical Medicine, University of Oulu. The [Finnish IT Center for Science (CSC)](https://csc.fi/) supports the course by providing cloud computing services.
 
 ## Code of Conduct
 
