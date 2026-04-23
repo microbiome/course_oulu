@@ -85,7 +85,10 @@ For a detailed schedule, see Section \@ref(program).
 
 2. Doctoral researchers with a study right in University belonging to Doctoral+ affiliate network can register through https://www.doctoralcourses.fi/.
 
-3. Otherwise, participants are asked to apply for a non-degree study right. Please email anna.kaisanlahti@oulu.fi for further instructions. 
+3. Otherwise, participants are asked to apply for a non-degree study right. Please email anna.kaisanlahti@oulu.fi for further instructions.
+
+Registration for the course is open 1.5.--31.5.2026.
+Enrolment is confirmed in June.
 
 ## Teachers and organizers
 
