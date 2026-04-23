@@ -1,7 +1,7 @@
 Package: Course
-Title: Microbiome data science course
+Title: Microbiome data science and multi-omics with R/Bioconductor
 Version: 0.2
-Date: 2023-06-06
+Date: 2026-04-22
 Authors@R: 
     c(person("Leo", "Lahti", email = "leo.lahti@utu.fi",
              role = c("aut", "cre"),             
@@ -14,45 +14,16 @@ Authors@R:
 	     )	     
 	     )
 Description:
-    This is a training course for performing **Microbiome Analysis** with 
-    Bioconductor in R miaverse framework.
+    This is a training course for Microbiome data science and multi-omics with R/Bioconductor
 License: CC BY-SA 4.0
 Encoding: UTF-8
-URL: https://github.com/microbiome/course_2023_oulu
-BugReports: https://github.com/microbiome/course_2023_oulu/issues
+URL: https://github.com/microbiome/course_oulu
+BugReports: https://github.com/microbiome/course_oulu/issues
 LazyData: true
 biocViews:
     Book
 Suggests:
     bookdown,
-    dplyr,
-    ggplot2,
-    ggpubr,
-    knitr,
-    mia,
-    miaViz,
-    microbiomeDataSets,
-    picante,
-    rebook,
-    rmarkdown,
-    Rtsne,
-    scater,
-    scuttle,
-    scran,
-    tibble,
-    TreeSummarizedExperiment,
-    uwot,
-    phyloseq,
-    tinytex,
-    pheatmap,
-    philentropy,
-    cowplot,
-    RColorBrewer,
-    cluster,
-    factoextra,
-    grid
-Remotes:
-    github::microbiome/mia,
-    github::microbiome/miaViz
+    rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 7.1.1

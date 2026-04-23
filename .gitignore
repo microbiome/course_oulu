@@ -33,3 +33,4 @@ vignettes/*.pdf
 oulu2023_material.rds
 .DS_Store
 */.DS_Store
+course_oulu.Rproj

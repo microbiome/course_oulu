@@ -1,13 +1,13 @@
 --- 
-title: "Multi-omic data science with R/Bioconductor"
-subtitle: "Oulu Summer School, June 2023"
-date: "2023-06-20"
+title: "Microbiome data science and multi-omics with R/Bioconductor"
+subtitle: "Oulu, September 2026"
+date: "2026-04-23"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: microbiome/course_2023_oulu
+github-repo: microbiome/course_oulu
 description: "Course material"
 output:
   bookdown::gitbook
@@ -19,26 +19,40 @@ geometry:
   - left=15mm
 ---
 
-
-
-# Overview
-
-<!--<a href="https://bioconductor.org"><img src="https://github.com/Bioconductor/BiocStickers/raw/master/Bioconductor/Bioconductor-serial.gif" width="200" alt="Bioconductor Sticker" align="right" style="margin: 0 1em 0 1em" /></a>-->
+# Course overview
 
 <a href="https://bioconductor.org"><img src="bioconductor_logo_rgb.jpg" width="200" alt="Bioconductor Sticker" align="right" style="margin: 0 1em 0 1em" /></a>
 
+**Contents and learning goals**: The course will provide a gentle introduction
+to multi-omic data analysis with R/Bioconductor, a popular open source
+environment for scientific data analysis. Participants get an overview of the
+reproducible data analysis workflow and learn to use standardized data
+containers that support the integration and analysis of biomedical data. After
+the course you will know how to approach new tasks in biomedical data analysis
+by utilizing available documentation and R/Bioconductor tools.
 
-## Contents and learning goals
+**Target audience**: MSc students, PhD, postdoctoral, and other researchers who
+wish to learn new skills in statistical programming and data analysis. Academic
+students and researchers from Finland and abroad are welcome and encouraged to
+apply.
+
+**Teaching material**: We will follow open online documentation created by the
+course teachers, primarily the
+[Orchestrating Microbiome Analysis](https://microbiome.github.io/OMA)
+(OMA) book. The training material walks you through the standard steps of omics
+data analysis covering data access, exploration, analysis, visualization, and
+reproducible workflows. Preparatory material and video clips, and online support
+are available before the course. All teaching material will be shared openly.
 
 ::: {.grid}
 
 ::: {.g-col-8}
-**Contents and learning goals**: This course provides an introduction to multi-omic data integration and analysis with R/Bioconductor, a popular open source environment for scientific data analysis. After the course you will know how to organize multiple data sources into a coherent framework, implement reproducible data science workflows, and approach common data analysis tasks by utilizing available documentation and R tools. The primary focus is on microbiome research but the covered data science methods are generally applicable and we will discuss links with other application domains such as transcriptomics, metabolomics, and single cell sequencing. 
 
-**Target audience**: MSc students, PhD, postdoctoral, and other researchers who wish to learn new skills in statistical programming and data analysis. Academic students and researchers from Finland and abroad are welcome and encouraged to apply.
 
-**Teaching material**: We will follow open online documentation created by the course teachers, primarily the [Orchestrating Microbiome Analysis](https://microbiome.github.io/OMA)
-(OMA) book. The training material walks you through the standard steps of omics data analysis covering data access, exploration, analysis, visualization, and reproducible workflows. Preparatory material and video clips, and online support are available before the course. All teaching material will be shared openly.
+
+
+
+
 :::
 
 ::: {.g-col-3}
@@ -47,15 +61,11 @@ geometry:
 
 :::
 
+## Schedule
 
-## Schedule 
+The course is organized in a live format.
 
-The course is organized in a live format. Preparatory material and video clips, and online support are available before the course. All teaching material will be shared openly.
-
-**Venue**: University of Oulu. June 19-21, 2023 (Mon-Wed). The course is organized in a live format. 
-
-**Costs**: There is no registration fee for the course. Participants are expected to cover
-  their own travel and accommodation.
+**Venue**: University of Oulu. September 28-30, 2026 (Mon-Wed).
 
 **Accommodation**: Housing tips can be found at <https://visitoulu.fi/en/arrival-overnight/>.
 
@@ -65,22 +75,22 @@ The course is organized in a live format. Preparatory material and video clips, 
  * Day 2 Tabular data analysis (working with single 'omics) 
  * Day 3 Multi-assay data integration (multi-omics methods)
 
-For a detailed schedule, see Section \@ref(program). The course can be
-extended by an independent assignment (details will be agreed with the
-main teacher).
+For a detailed schedule, see Section \@ref(program).
 
+## Instructions for registration
 
-## How to apply
+**Fee**: Course is free of charge for participants having a study right in University of Oulu and for doctoral researchers in Universities belonging to Doctoral+ affiliate network (Aalto University, Hanken School of Economics, University of Eastern Finland, University of Jyväskylä, University of Lapland, LUT University, University of Oulu, Tampere University, University of Turku, University of Vaasa, Åbo Akademi). Other participants are asked to apply for non-degree study right that involves an enrollment fee of 40e (please see instructions for registration). Participants are expected to cover their own travel and accommodation.
 
-- Send a brief motivation letter to Anna Kaisanlahti [anna.kaisanlahti\@oulu.fi](mailto:anna.kaisanlahti@oulu.fi){.email}
-- Applications from local students, and applications sent before May 15 will be given priority
-- The course has maximum capacity of 20 participants.
+1.  Participants having a study right to University of Oulu can register directly in PEPPI to Microbiome data science and multi-omics with R/Bioconductor under course code DP00BE40.
 
+2. Doctoral researchers with a study right in University belonging to Doctoral+ affiliate network (Aalto University, Hanken School of Economics, University of Eastern Finland, University of Jyväskylä, University of Lapland, LUT University, University of Oulu, Tampere University, University of Turku, University of Vaasa, Åbo Akademi) can register through https://www.doctoralcourses.fi/.
+
+3. Otherwise, participants are asked to apply for a non-degree study right. Please email anna.kaisanlahti@oulu.fi for further instructions.
+NOTE: non-degree study-right involves a fee of 40e.
 
 ## Teachers and organizers
 
-**Teachers**: [Leo Lahti](https://datascience.utu.fi) is the main teacher and Associate Professor in Data Science at the University of Turku. Dr. Pande Erawijantari is a co-teacher. Course assistants are *Tuomas Borman* (Turku), *Giulio Benedetti* (Turku), and *Anna Kaisanlahti* (Oulu). Docent *Justus Reunanen* is the course coordinator. The course is organized by [Health and Biosciences Doctoral Programme (HBS-DP)](https://www.oulu.fi/en/research/graduate-school/organisation-and-contact-information-uniogs/health-and-biosciences-doctoral-programme) University of Oulu Graduate School, Research Unit of Translational Medicine, University of Oulu. The [Finnish IT Center for Science (CSC)](https://csc.fi/) supports the course by providing cloud computing services.
-
+**Teachers**: [Leo Lahti](https://datascience.utu.fi) is the main teacher and Associate Professor in Data Science at the University of Turku. *Tuomas Borman* and *Anna Kaisanlahti* are a co-teachers. The course is organized by [Health and Biosciences Doctoral Programme (HBS-DP)](https://www.oulu.fi/en/research/graduate-school/organisation-and-contact-information-uniogs/health-and-biosciences-doctoral-programme) University of Oulu Graduate School, Research Unit of Translational Medicine, University of Oulu. The [Finnish IT Center for Science (CSC)](https://csc.fi/) supports the course by providing cloud computing services.
 
 ## Code of Conduct
 
@@ -103,13 +113,3 @@ More details on its enforcement are available [here](https://bioconductor.github
 **License and source code**:
 
 All material is released under the open [CC BY-NC-SA 3.0 License](LICENSE) and available online during and after the course, following the [recommendations on open teaching materials](https://avointiede.fi/fi/linjaukset-ja-aineistot/kotimaiset-linjaukset/oppimisen-ja-oppimateriaalien-avoimuuden-linjaus) of the national open science coordination in Finland.
-
-The source code of this repository is reproducible and contains
-the Rmd files with executable code. All files can be rendered at one
-go by running the file [main.R](main.R). You can check the file for
-details on how to clone the repository and convert it into a gitbook,
-although this is not necessary for the training.
-
-- Source code (github): [miaverse teaching material](https://github.com/microbiome/course_2023_oulu)
-- Course page (html): [miaverse teaching material](https://microbiome.github.io/course_2023_oulu/)
-

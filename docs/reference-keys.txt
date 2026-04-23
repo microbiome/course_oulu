@@ -1,7 +1,7 @@
 overview
 contents-and-learning-goals
 schedule
-how-to-apply
+instructions-for-registration
 teachers-and-organizers
 code-of-conduct
 acknowledgments
@@ -15,13 +15,4 @@ arrival-to-oulu
 public-transport
 electric-boards-and-bikes
 accommodation
-start
-checklist
-material
-lecture-slides
-day-1
-day-2
-reading
-renv
-your-own-computer
-csc-notebook
+course-overview
