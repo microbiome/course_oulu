@@ -83,7 +83,7 @@ For a detailed schedule, see Section \@ref(program).
 
 1. Participants having a study right to University of Oulu can register directly in PEPPI to Microbiome data science and multi-omics with R/Bioconductor under course code DP00BE40.
 
-2. Doctoral researchers with a study right in University belonging to Doctoral+ affiliate network can register through https://www.doctoralcourses.fi/.
+2. Doctoral researchers with a study right in University belonging to Doctoral+ affiliate network can register through https://www.doctoralcourses.fi/oulu-courses/.
 
 3. Otherwise, participants are asked to apply for a non-degree study right. Please email anna.kaisanlahti@oulu.fi for further instructions.
 
