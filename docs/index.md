@@ -1,7 +1,7 @@
 --- 
 title: "Microbiome data science and multi-omics with R/Bioconductor"
 subtitle: "Oulu, September 2026"
-date: "2026-05-04"
+date: "2026-05-05"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [packages.bib]
@@ -24,8 +24,8 @@ geometry:
 <a href="https://bioconductor.org"><img src="bioconductor_logo_rgb.jpg" width="200" alt="Bioconductor Sticker" align="right" style="margin: 0 1em 0 1em" /></a>
 
 **Contents and learning goals**: The course will provide a gentle introduction
-to multi-omic data analysis with R/Bioconductor, a popular open source
-environment for scientific data analysis. Participants get an overview of the
+to microbiome and multi-omic data science with R/Bioconductor, a popular open
+source environment for scientific data analysis. Participants get an overview of the
 reproducible data analysis workflow and learn to use standardized data
 containers that support the integration and analysis of biomedical data. After
 the course you will know how to approach new tasks in biomedical data analysis
