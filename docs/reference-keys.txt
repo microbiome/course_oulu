@@ -16,3 +16,4 @@ public-transport
 electric-boards-and-bikes
 accommodation
 course-overview
+note
