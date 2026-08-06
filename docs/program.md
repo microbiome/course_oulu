@@ -41,6 +41,10 @@ Reproducible workflows with R/Bioconductor and Quarto
 
 14-16 Working with data containers and workflows
 
+**Evening**
+
+Informal course dinner (at own cost)
+
 ----------------------------------------------------------------
 
 ## Day 2 - Tabular data analysis
@@ -58,10 +62,6 @@ Reproducible workflows with R/Bioconductor and Quarto
 13-14 Univariate data analysis and visualization
 
 14-16 Multivariate data analysis and visualization
-
-**Evening**
-
-Informal course dinner (at own cost)
 
 ----------------------------------------------------------------
 
@@ -81,12 +81,3 @@ Informal course dinner (at own cost)
 13-15: Q & A and advanced techniques (e.g. time series, machine learning, simulation)
 
 15-16: Summary and wrap-up
-
-
-
-
-
-
-
-
-
