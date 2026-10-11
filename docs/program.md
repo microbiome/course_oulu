@@ -43,7 +43,7 @@ Reproducible workflows with R/Bioconductor and Quarto
 
 **Evening**
 
-Informal course dinner (at own cost)
+Course dinner (at own cost)
 
 ----------------------------------------------------------------
 

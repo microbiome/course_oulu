@@ -1,5 +1,4 @@
-overview
-contents-and-learning-goals
+course-overview
 schedule
 instructions-for-registration
 teachers-and-organizers
@@ -15,5 +14,3 @@ arrival-to-oulu
 public-transport
 electric-boards-and-bikes
 accommodation
-course-overview
-note
