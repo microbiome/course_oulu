@@ -41,6 +41,8 @@ Reproducible workflows with R/Bioconductor and Quarto
 
 14-16 Working with data containers and workflows
 
+16-17 Q & A
+
 **Evening**
 
 Course dinner (at own cost)
@@ -63,6 +65,8 @@ Course dinner (at own cost)
 
 14-16 Multivariate data analysis and visualization
 
+16-17 Q & A
+
 ----------------------------------------------------------------
 
 ## Day 3 - Multi-assay data integration 
@@ -81,3 +85,5 @@ Course dinner (at own cost)
 13-15: Q & A and advanced techniques (e.g. time series, machine learning, simulation)
 
 15-16: Summary and wrap-up
+
+
